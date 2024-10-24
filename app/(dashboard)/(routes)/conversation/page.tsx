@@ -319,8 +319,7 @@ const ConversationPage = () => {
         },
         {
           headers: {
-            // Authorization: `Bearer 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`, // Add your API key here
-          },
+                      },
         }
       );
 
