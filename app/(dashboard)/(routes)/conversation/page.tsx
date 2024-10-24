@@ -324,6 +324,7 @@ const ConversationPage = () => {
       );
 
       console.log(response.data); // Debugging the response
+      // Hello
 
       // Extract the assistant's message
       const assistantMessage: ChatCompletionRequestMessage = {
